@@ -14,7 +14,7 @@ namespace Hello {
         }
 
         private void button1_Click(object sender, EventArgs e) {
-            button1.Text = "Merhaba";
+            button1.Text = "Merhaba/Hello";
         }
     }
 }
